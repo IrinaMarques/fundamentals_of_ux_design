@@ -1,0 +1,85 @@
+=======================
+1.1 What is UX Design 
+=======================
+
+What is User Experience?
+
+Is the way a person feels about using a product, system, or service...
+
+Notice:
+- A pretty website is not always a usable one!
+
+http://raleigh.craigslist.org/ 
+This is an example of simple and clean
+
+http://simpleandusable.com/simplify-this
+Good exercice for a web design application
+
+====================================
+1.2 The Anatomy of User Experience
+====================================
+
+1. 
+To design UX:
+- Useful
+- Usable
+- Desirable
+- Valuable
+- Findable
+- Acessible
+- Credible
+
+2.
+Information Architecture:
+Overall organization in a navigation and content on a website or software interface. Organizing in a logical is the basic goal.
+
+The circles of information architecture:
+- Context
+- Content
+- Users
+Need to balance.
+
+Some examples - help move to the content and find things:
+- Navigation
+- Breadcrumbs
+- Sidebar menus
+- Footer menus
+- Headers and sections in content blocks
+
+3.
+Interaction Design:
+The overall experience of moving to a serie of actions in a website or in a software system. Is the process of creating a path that guides your users through a series of tasks.
+
+Some examples - indicators of an interaction:
+- Clickable
+- Scrollable
+- Type-able (inputs)
+- Action words
+
+Some websites have so many information to show you that they asked for specific things that you want so they can make a filter of that huge information. That way show you only whats important to you.
+Ask the user to make decisions --> then give information.
+
+4.
+Separating Visual Design
+
+Some example:
+- Pictures
+- Colors
+- Typography
+- Overall look and feel
+
+=====================
+1.3 Getting Started
+=====================
+
+The small test - any testing is better than none
+Get a person and put in front of the website that we are developing then ask what he will do next.
+
+The big test - get a baseline
+Requires more persons with diferent porpouses. 
+Get a bigger and diverse group of users.
+Get in front of the aplication for a big period of time that way we get more results.
+
+Going forward - feature by feature testing
+Take a person and try something that is problamatic in your website.
+Listen that person.
