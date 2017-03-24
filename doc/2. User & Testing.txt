@@ -1,0 +1,26 @@
+=================================
+2.1 Find Out Who your Users Are
+=================================
+
+- Getting data: We can't design a good user experience without knowing who our users are.
+
+- Metrics Tools:
+Google analytics
+Piwik
+Crazy Egg
+Kiss Metrics
+Loopfuse
+Spring Metrics
+
+- Demographics: Know where people are from.
+
+- Technical Capabilities: Design for several screens.
+Most commonly used browser/operating system combinations
+Device type
+Screen size
+Contexts whre device is commonly used
+
+
+
+
+
