@@ -20,7 +20,47 @@ Device type
 Screen size
 Contexts whre device is commonly used
 
+=======================
+2.2 Creating Personas
+=======================
 
+What's a user persona?
+Users for design planing means. 
+Fictitious person. 
+Share characteristics based on research and knowledge that you already have about them.
+Help keep foucus on the goals and needs of your users.
 
+Creating a persona:
+
+What's a 'win' state in your website?
+What task constitutes a successful use.
+
+Different type of users:
+Expert
+Intermediate
+Beginner
+Novice
+
+Create a list of tasks that someone can do in the site. Then organize by difficulty.
+
+How familiar is this person...
+With the tasks in your application?
+With applications in general?
+With internet in general?
+With computers in general?
+
+Backstory:
+Important to know the motivation in using the site/app
+
+Make a template:
+With an image.
+Name
+Physical location
+Age
+Profession
+Language
+Computer Experience
+Knowledge of the business domain
+Physical limitations
 
 
