@@ -85,4 +85,18 @@ Words of questioning - listen for uncertaintly:
 - I'm not sure
 - Where do I go next?
 
-http://wiki.darkpatterns.org/Home
+=======================
+2.4 Prioritizing Work
+=======================
+
+Not all problems are created equal
+- hight impact
+- low impact
+
+- hard to implement
+- easy to implement
+
+Look first for the quick wins - the ones easy to fix.
+Long term goals
+Back Burner - the harder ones
+
