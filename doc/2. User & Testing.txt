@@ -63,4 +63,26 @@ Computer Experience
 Knowledge of the business domain
 Physical limitations
 
+================================
+2.3 Identify Usability Problems
+================================
 
+How to know a usability problem?
+A point here a user express frustration or be unable to complete a task.
+
+Taking too long.
+How long can the people spending in the page?
+
+Begin with the obvious.
+
+When work with users in person listen for the negative:
+- The font
+- The color
+- "I can't get out of here!"
+
+Words of questioning - listen for uncertaintly:
+- What do these pictures means?
+- I'm not sure
+- Where do I go next?
+
+http://wiki.darkpatterns.org/Home
