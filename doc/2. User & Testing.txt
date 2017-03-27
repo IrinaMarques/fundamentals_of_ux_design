@@ -100,3 +100,31 @@ Look first for the quick wins - the ones easy to fix.
 Long term goals
 Back Burner - the harder ones
 
+======================
+2.5 Designing a Test
+======================
+
+Careful what users want.
+
+Coming up with a testing plan.
+
+
+Testing styles - Naturalistic vs. Task oriented:
+
+- Task oriented give the users a list of guide lines and see were it goes. Give anexample task -e.g. "Complete this form", or "Sign up for an account". The tester would give the user directions, to keep them doing on the desired path, and not allow them to wander off.
+- The Naturalistic Questions: Tester don't guide the user only observe what they are doing.
+Where would you go next? What do you think that does? How does that make you feel? What would you like it to do? 
+
+
+Remote vs in-person:
+
+- Type 1: In person moderated
+Sitting down with the user and looking at the screen with them
+- Type 2: In person, unmoderated
+Software records their action and observe behind a mirror.
+- Type 3: Remote, moderated
+Skype or webassembly, working with the user in real time.
+- Type 4: Remote, unmoderated.
+Using a servece like testing.com, records sound and screen of the user but was no interaction.
+
+
