@@ -154,3 +154,23 @@ Take notes and observe
 No technobabble - use simple terms.
 No leading
 
+================================================
+2.7 Creating a Design: Information Architecture
+================================================
+
+- "The Scent" of a website
+- Sitemap
+- Card sorting: 
+Make notecards - each link page
+Allows to associate 
+--> img/make_notecards.png
+
+Put things that are alike together:
+Take the cards and arrange them logically 
+Arranje for people, things and actions
+--> img/make_notecards1.png
+
+- Hub and spoke diagrams:
+Organize by parts of speech
+-->img/diagrams.png
+-->img/sidemap.png
