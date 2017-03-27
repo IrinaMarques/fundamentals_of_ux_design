@@ -127,4 +127,30 @@ Skype or webassembly, working with the user in real time.
 - Type 4: Remote, unmoderated.
 Using a servece like testing.com, records sound and screen of the user but was no interaction.
 
+=======================
+2.6 Working with users
+=======================
+
+- Recruting users:
+Depends the project and organization.
+Thru the website with an announcement
+Twitter
+Facebook
+Linkdln
+Craigslist
+Your company blog
+
+- A brief word on scheduling:
+Sometimes in a day we'll do several sessions, leave pleanty of room between sessions. 
+
+- The legal Stuff:
+Be aware of the legal stuff.
+
+- Structuring & Conduction the Session:
+Running a Session ask for honest feedback 
+Be friendly and confident. 
+Be mindful of language
+Take notes and observe
+No technobabble - use simple terms.
+No leading
 
