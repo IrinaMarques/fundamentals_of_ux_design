@@ -1,0 +1,27 @@
+===================================
+3.1 Creating a Design: Interaction
+===================================
+
+- Make a map:
+Interaction design is visual. 
+What happens first? What happens second?
+Get organized to know what actions are envolved and when it happen in relation to each other.
+
+- Flow models:
+-->img/flow_model.png
+
+Tools:
+Microsoft visio
+
+- How to begin?
+Need to look at the requirements and identify all the actions and decisions
+
+Interaction design:
+Examining all possible action and making sure that everything is covered.
+
+- Fleshing out actions & states
+
+- Whiteboards & brainstorming
+
+- Polishing up
+
