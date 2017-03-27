@@ -12,6 +12,7 @@ Get organized to know what actions are envolved and when it happen in relation t
 
 Tools:
 Microsoft visio
+Cacoo.com
 
 - How to begin?
 Need to look at the requirements and identify all the actions and decisions
@@ -24,4 +25,39 @@ Examining all possible action and making sure that everything is covered.
 - Whiteboards & brainstorming
 
 - Polishing up
+
+=================
+3.2 Wireframing
+=================
+
+Wireframe allows to work with layouts requirements without color, designing and branding.
+
+It's a usability prespective.
+Wireframe brings clarity to the process.
+Allows to foucus to the actual elements on the page.
+
+Traditional Wireframes:
+Contains all the elements possible.
+
+Web-based Tools:
+- Mockingbird
+- Gliffy
+- Balsamiq
+- Cacoo
+
+Desktop Tools:
+- Adobe Photoshop
+- Adobe Fireworks
+- The GIMP
+- Omnigraffle
+- Microsoft Visio
+
+Paper Wireframes
+
+Iterating: 
+Process of taking a wireframe --> show to someone --> discussing it --> agree on changings --> next version (moving elements) and get more detail
+--> show that version to more people --> get more feedback --> Repeat
+
+Don't get attached
+
 
