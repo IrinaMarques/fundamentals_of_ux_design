@@ -103,3 +103,30 @@ Be the evangelist
 Share your successes
 
 Be patient
+
+=======================================================
+3.5 User Experience and Project Management Methodology
+=======================================================
+
+Working with a Project management:
+UX Design it's new to a lot of organizations.
+
+"Waterfall" methodology:
+Is a sequencial design proccess 
+- Requirements --> User Testing and Analysis --> Design --> Implementation --> Maintenance
+
+Allow more time for careful analysis
+Less flexibility in rolling out fixes quickly
+Be careful about prioritizing fixes, since you have less ability to roll them out quickly
+Plan for detailed deliverables and careul analysis documents
+
+Agile UX:
+Things can be fast and furious
+Fixes can be implemented quickly, or take more time if they're larger
+Rapid turnaround times allows for real life feedback, which can decrease the need for the in-depth sutdies before deplying
+Less detailed deliverables
+
+Lean UX:
+Low fidelity deliverables
+Collaborative brainstorming/design
+People and ideas over deliverables
