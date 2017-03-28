@@ -60,4 +60,29 @@ Process of taking a wireframe --> show to someone --> discussing it --> agree on
 
 Don't get attached
 
+======================================
+3.3 Creating a design: Visual Design
+======================================
 
+A note about color - cultural expectation about color:
+- green --> go 
+- red --> stop
+
+Contrast:
+http://www.snook.ca/technical/colour_contrast/
+
+Fonts:
+Careful with the fonts there are many beautiful fonts but some are hard to read
+
+A/B Testing:
+- Kissmetrics
+- Loopfuse
+- USabilla
+- Optimizely
+- Pen and Paper
+
+Get Feedback:
+- Forrst
+- ConceptFeedback
+- Dribbble
+- Other social media
